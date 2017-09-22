@@ -1,7 +1,3 @@
-body #main-content{
-  height: 100%;
-}
-
 body.side-menu-open .side-menu{
   width: 310px;
   height: 100%;
@@ -37,6 +33,7 @@ body #main-content{
   transition: margin-left .3s ease;
   -moz-transition: margin-left .3s ease;
   -webkit-transition: margin-left .3s ease;
+  height: 100%;
 }
 
 body.side-menu-open #main-content{
