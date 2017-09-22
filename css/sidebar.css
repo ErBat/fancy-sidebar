@@ -1,3 +1,7 @@
+body #main-content{
+  height: 100%;
+}
+
 body.side-menu-open .side-menu{
   width: 310px;
   height: 100%;
